@@ -23,7 +23,8 @@ struct ContentView: View {
         }
         .padding()
     }
-}
+    
+    // THis is a new comment
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
