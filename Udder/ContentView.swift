@@ -19,7 +19,8 @@ struct ContentView: View {
             Text("Fresh milk, on demand")
                 .foregroundColor(.gray)
                 .font(.title2)
-            
+            Spacer()
+            Text("This is the cow commit")
         }
         .padding()
     }
