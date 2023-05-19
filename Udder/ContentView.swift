@@ -13,7 +13,6 @@ struct ContentView: View {
             Image(systemName: "globe.americas.fill")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-                .
             Text("Udder")
                 .foregroundColor(.black)
                 .font(.title)
